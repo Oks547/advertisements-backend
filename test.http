@@ -1,0 +1,9 @@
+###
+POST http://127.0.0.1:8000/api/advertisements/
+Content-Type: application/json
+Authorization: Token 5afa7ee64cef153ae8647e9cf005b475db511c66
+
+{
+    "title": "Продаю ноутбук",
+    "description": "В идеальном состоянии"
+}
